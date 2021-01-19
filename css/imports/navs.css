@@ -1,0 +1,11 @@
+.navbar-brand {
+    font-family: "Exo 2", sans-serif;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link.active {
+    color: var(--primary-colour) !important;
+}

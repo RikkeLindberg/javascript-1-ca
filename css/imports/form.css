@@ -1,0 +1,19 @@
+form {
+    background: #efefef;
+    padding: 1.5em;
+    border: 1px solid #ced4da;
+    border-radius: 6px;
+}
+
+.form-error {
+    color: var(--error);
+    font-size: 14px;
+    margin-top: 3px;
+    display: none;
+}
+
+.submit-message {
+    color: rgb(0, 110, 0);
+    font-weight: bold;
+    display: none;
+}
